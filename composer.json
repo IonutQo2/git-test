@@ -7,7 +7,7 @@
     },
     "extra": {
         "installer-paths": {
-            "test": ["vendor/package"]
+            "test/": ["IonutQo2/git-test"]
         }
     }
 }
