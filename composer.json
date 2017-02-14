@@ -4,8 +4,7 @@
         "psr-0" : {
             "IonutQo2/git-test" : "src"
         }
-    },
-    {
+    }
     "extra": {
         "installer-paths": {
             "test": ["vendor/package"]
