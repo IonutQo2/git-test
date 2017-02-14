@@ -10,4 +10,7 @@
             "./test/": ["IonutQo2/git-test"]
         }
     }
+    "require" : {
+        "composer/installers": "~1.0"
+    }
 }
