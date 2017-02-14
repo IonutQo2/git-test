@@ -5,12 +5,12 @@
             "IonutQo2/git-test" : "src"
         }
     },
+    "require" : {
+        "composer/installers": "~1.0"
+    },
     "extra": {
         "installer-paths": {
             "./test/": ["IonutQo2/git-test"]
         }
-    },
-    "require" : {
-        "composer/installers": "~1.0"
     }
 }
