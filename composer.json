@@ -1,0 +1,8 @@
+{
+    "name": "ionutTest",
+    "autoload": {
+        "psr-0" : {
+            "Test" : "src"
+        }
+    }
+}
